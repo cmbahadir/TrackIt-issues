@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> TrackIt
+# <img src="https://raw.githubusercontent.com/cmbahadir/TrackIt/main/public/icons/icon_48.png?token=GHSAT0AAAAAACAUT4HZM4UPMZZ4EMNLMYBGZBB4MQQ" width="45" align="left"> TrackIt
 
 # TrackIt Extension
 
