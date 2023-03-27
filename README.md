@@ -34,5 +34,5 @@ The best contribution would be creating an issue for the problems you see while 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
